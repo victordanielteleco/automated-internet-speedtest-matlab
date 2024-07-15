@@ -2,6 +2,9 @@ This a small script to make automated internet test, it uses speedtest cli from 
 
 it is designed to run on windows 11 x64, and will show you your internet adapter properties in the command line,
 developed and tested in Matlab R2020a
+If you are gonna use it constantly, i recommend you to edit line 12:
+    %cmdSpeedtest = ['cd "sustituye esto por la ruta donde está el ejecutable de speedtest, sin las comillas" & speedtest --format=json'];
+and replace "sustituye esto por la ruta donde está el ejecutable de speedtest, sin las comillas" with the path without the quotes
 
 you can choose to export or not to export the figures and the table with the results, also you can export a csv to make stadistics outside matlab (in excel for example)
 
