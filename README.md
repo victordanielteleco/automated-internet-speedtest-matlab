@@ -1,6 +1,7 @@
 This a small script to make automated internet test, it uses speedtest cli from ookla, shows you different stadistics and plots the values
 
-it is designed to run on windows, and will show you your internet adapter properties in the command line
+it is designed to run on windows 11 x64, and will show you your internet adapter properties in the command line,
+developed and tested in Matlab R2020a
 
 you can choose to export or not to export the figures and the table with the results, also you can export a csv to make stadistics outside matlab (in excel for example)
 
