@@ -15,7 +15,7 @@ The motivation behind this project is to optimize time while i was testing a wif
 ps: speedtest cli has a maximum amount per day of test you can make fom the same ip, its about 30-40 
 
 The Matlab script used to create the maps is available at: https://www.mathworks.com/matlabcentral/fileexchange/61340-multi-wall-cost231-signal-propagation-models-python-code
-It was developed by Salaheddin Hosseinzadeh (https://github.com/hosseinzadeh88), and after analyzing his solution, it was decided that it would be useful for this project. 
+It was developed by Salaheddin Hosseinzadeh @hosseinzadeh88 (https://github.com/hosseinzadeh88), and after analyzing his solution, it was decided that it would be useful for this project. 
 This Matlab add-on (Multi wall (COST231) Signal Propagation Models) estimates signal loss using free space and COST231 propagation models. This two-dimensional method considers the walls between the transmitter and receiver. It only requires an image of the plane and the measurement between two points on it.
 The author's excellent documentation has been key to understanding how it works and how to use it in order to implement it in this project.
 
